@@ -1,2 +1,3 @@
 # amazon-clone
-The gains we get from React are really amazing. There are many possibilities offered by this library, regardless of the size of the project and the application to be developed. In addition,  from the comparison with Angular and Vue, React was conceived with the idea that it would be a simple tool to use thus allowing the learning curve to be very steep. Contrary to a framework like Angular, we can master React Programming quickly allowing us to get the most out of it and become real experts in a short time.
+find projecct files in master branch
+
